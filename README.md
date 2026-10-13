@@ -171,3 +171,13 @@ Não é necessário incluir arquivos temporários de compilação no repositóri
 ---
 
 Projeto desenvolvido para fins de estudo.
+
+---
+
+## Alunos:
+- Antonio Sandes
+- Gabriel Araujo
+- Heitor Torres
+- Isabelly Ribeiro
+- Rafael de Andrade
+- Rubens Sousa
